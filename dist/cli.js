@@ -1,5 +1,5 @@
 #!/usr/bin/env bun
-import { scaffold } from './chunk-H36REW25.js';
+import { scaffold } from './chunk-L5ZPLS3Y.js';
 
 // src/cli.ts
 var name = process.argv[2] ?? "";
